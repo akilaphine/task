@@ -17,3 +17,11 @@ in this task create form to fill in your details on 24/Oct
 this is all about radio form in order to select yes or no. on 2/Oct 
 ## task9
 it the first practical using html on 14/Oct
+## task 10
+this task shows how you can have different pictures and text in the same portfolio
+## task 11
+it also show the improved version of the portfolio with social media link added to it
+## task 12
+i effect changes in the earlier portfolio, i change the color and i move it left
+## task 13
+it's also another portfolio in order to use different color compare to earlier one
