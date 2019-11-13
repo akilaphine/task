@@ -1,10 +1,15 @@
 * # css
 css stand for cascading style sheet. Is a stylesheet language that is used to described the presentation of the html  document on screen, on paper or other media.
 * ## css type
-External stylesheet you can change the look of the entire website by changing just one file
+External stylesheet you can change the look of the entire website by changing just one file 
+```
 <head>
 <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
+
+```
+
+
 An internal style sheet may be used if one single page has a unique style. 
 Internal styles are defined within the <style> element, inside the <head> section of an HTML page:
 
